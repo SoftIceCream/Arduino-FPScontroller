@@ -25,4 +25,6 @@ BT tx 2 rx3 pin 2018
 
 I2C
 
-자이로 sda 4 scl 5
+>자이로
+>sda 4
+>scl 5
